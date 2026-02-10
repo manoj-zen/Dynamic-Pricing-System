@@ -1,0 +1,144 @@
+╔════════════════════════════════════════════════════════════════════════════╗
+║                                                                            ║
+║    🌐 GET YOUR PUBLIC LINK - DEPLOYMENT GUIDE                             ║
+║                                                                            ║
+║    AI-Driven Dynamic Pricing System                                        ║
+║    For Google Cloud, Heroku, Railway & More                               ║
+║                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+📋 QUICK REFERENCE
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 🚀 FASTEST METHOD: Google Cloud Run (5 minutes, COMPLETELY FREE!)           │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                              │
+│ 1. Install Google Cloud SDK                                                 │
+│    → https://cloud.google.com/sdk/docs/install                              │
+│                                                                              │
+│ 2. Authenticate                                                             │
+│    → gcloud auth login                                                       │
+│                                                                              │
+│ 3. Deploy                                                                   │
+│    → cd /Users/vimalraj/Desktop/manoj/dynamic-pricing-grocery               │
+│    → gcloud run deploy dynamic-pricing \                                    │
+│        --source . \                                                          │
+│        --platform managed \                                                  │
+│        --region us-central1 \                                                │
+│        --allow-unauthenticated                                               │
+│                                                                              │
+│ 4. Get your public URL (wait 2-5 minutes)                                   │
+│    → https://dynamic-pricing-abc123-uc.a.run.app                            │
+│                                                                              │
+│ 5. Share with anyone! ✅                                                     │
+│                                                                              │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+📚 DOCUMENTATION FILES
+
+  START WITH THESE (in order):
+  
+  1. 📖 PUBLIC_LINK_GUIDE.md        ← 3-step guide to get your link
+  2. 📖 QUICK_DEPLOY.md             ← Fastest deployment method
+  3. 📖 DEPLOYMENT_GUIDE.md         ← Complete guide with advanced options
+  4. 📖 HOSTING_OPTIONS.md          ← Compare all platforms
+  5. 📖 DEPLOY_INDEX.md             ← Navigation guide
+  6. 📖 README.md                   ← Project overview
+
+  Helper Scripts:
+  
+  🔧 deploy.sh                      ← Automated deployment script
+  🐳 Dockerfile                     ← Container configuration
+  ⚙️  app.yaml                       ← App Engine config
+  🏗️  cloudbuild.yaml               ← Cloud Build config
+
+💰 COST
+
+  Google Cloud Run:    FREE (2M requests/month)
+  Heroku:             $7/month
+  Railway:            $5/month (first month free)
+  AWS App Runner:     $3.80/month
+  Replit:             Free/Paid
+
+🎯 THREE DEPLOYMENT PATHS
+
+  Path A - Fast Deploy (5 min)
+  └─ Run one command, done!
+  
+  Path B - Script Deploy (10 min)
+  └─ chmod +x deploy.sh && ./deploy.sh
+  
+  Path C - Custom Deploy
+  └─ See DEPLOYMENT_GUIDE.md
+
+✨ WHAT YOU GET
+
+  ✅ Live public URL
+  ✅ Interactive dashboard
+  ✅ REST API (15+ endpoints)
+  ✅ ML model serving
+  ✅ 200 grocery items
+  ✅ Auto-scaling
+  ✅ HTTPS encryption
+  ✅ Global availability
+  ✅ FREE hosting
+
+📱 SHARE YOUR LINK
+
+  After deployment, you'll have:
+  
+  https://dynamic-pricing-abc123-uc.a.run.app
+  
+  Anyone worldwide can:
+  ✅ View dashboard
+  ✅ Load products
+  ✅ Calculate prices
+  ✅ Use API
+  ✅ View analytics
+  ✅ No login needed
+
+🔗 EXAMPLE URLs
+
+  Dashboard:    https://dynamic-pricing-xxx-uc.a.run.app
+  API:          https://dynamic-pricing-xxx-uc.a.run.app/docs
+  Get product:  https://dynamic-pricing-xxx-uc.a.run.app/price/1
+
+🚀 NEXT STEPS
+
+  1. Read: PUBLIC_LINK_GUIDE.md (5 minutes)
+  2. Install: Google Cloud SDK
+  3. Run: Deployment command
+  4. Wait: 2-5 minutes
+  5. Share: Your public URL!
+
+❓ QUESTIONS?
+
+  Q: Is it free?
+  A: Yes! $0 during free tier (2M req/month)
+  
+  Q: How fast?
+  A: 5 minutes from start to live URL
+  
+  Q: Can I update?
+  A: Yes, redeploy anytime
+  
+  Q: Will it go down?
+  A: No, Google-managed infrastructure
+  
+  Q: What's the URL?
+  A: auto-generated, can add custom domain
+
+📞 SUPPORT
+
+  Google Cloud Docs: https://cloud.google.com/run/docs
+  Project README:    See README.md
+  FAQ:               See HOSTING_OPTIONS.md
+
+═══════════════════════════════════════════════════════════════════════════════
+
+                    🎊 YOU'RE READY TO DEPLOY! 🎊
+
+                   Start with: PUBLIC_LINK_GUIDE.md
+                   
+═══════════════════════════════════════════════════════════════════════════════
+
